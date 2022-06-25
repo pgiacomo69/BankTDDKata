@@ -11,7 +11,7 @@ public class Account
 
     public void Deposit(int amount)
     {
-        Balance -= amount;
+        Balance += amount;
     }
 
     public void Withdraw(int amount)
