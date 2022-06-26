@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTDD.Model", "BankTDD.Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTDD.Test", "BankTDD.Test\BankTDD.Test.csproj", "{CC64ABD7-2195-4DFC-90DF-00F78F89B239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTDD.Application", "BankTDD.Application\BankTDD.Application.csproj", "{5933C9E5-E485-4E7B-AD5C-49C5FA094FA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{CC64ABD7-2195-4DFC-90DF-00F78F89B239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC64ABD7-2195-4DFC-90DF-00F78F89B239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC64ABD7-2195-4DFC-90DF-00F78F89B239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5933C9E5-E485-4E7B-AD5C-49C5FA094FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5933C9E5-E485-4E7B-AD5C-49C5FA094FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5933C9E5-E485-4E7B-AD5C-49C5FA094FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5933C9E5-E485-4E7B-AD5C-49C5FA094FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
